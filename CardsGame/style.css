@@ -1,0 +1,49 @@
+ body{ background-color:burlywood;
+  }
+
+#player{
+    margin-left: 45%;
+
+}
+
+  .card{
+      width : 50px;
+      height: 75px;
+      cursor: pointer;
+ 
+  }
+ 
+  #ImgCard {
+   
+    width: 50px;
+    height: 75px;
+    margin-left: 33%;
+    margin-top: 50px;
+    background-color: antiquewhite ;
+    
+  }
+   #CardsTable {
+    margin-left: 35%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 500px;
+    height: 200px;
+    background-color:darksalmon;
+    margin-bottom: 10px;
+    border:2px solid darksalmon;
+  } 
+  ul {
+    list-style-type: none;
+    font-size: 20px;
+    color: brown;
+  }
+  p{
+    color: brown;
+  }
+ #result {
+ font-size: 20px;
+ color: brown;
+ margin-left: 5%;
+ width: 10%;
+ font-weight: bold;
+ }
